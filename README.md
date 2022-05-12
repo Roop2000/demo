@@ -7,6 +7,8 @@ public class circle {
 		int r=sc.nextInt();
 		double area = (3.14)*(r*r);
 		System.out.println(area);
+		System.out.println(perimeter);
+		
 		// TODO Auto-generated method stub
 
 	}
